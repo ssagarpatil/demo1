@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Fees</string>
+
+    <string-array name="fee_names">
+        <item>Tuition Fee</item>
+        <item>Library Fee</item>
+        <item>Transport Fee</item>
+        <item>Exam Fee</item>
+        <item>Sports Fee</item>
+        <item>Activity Fee</item>
+        <item>Health Fee</item>
+        <item>Computer Lab Fee</item>
+        <item>Art and Craft Fee</item>
+        <item>Book Fee</item>
+        <item>Uniform Fee</item>
+        <item>Science Lab Fee</item>
+        <item>Music Fee</item>
+        <item>Field Trip Fee</item>
+        <item>Annual Fee</item>
+        <item>Insurance Fee</item>
+        <item>Maintenance Fee</item>
+        <item>Student Welfare Fee</item>
+        <item>Sports Kit Fee</item>
+        <item>Workshop Fee</item>
+        <item>Co-curricular Activity Fee</item>
+        <item>Swimming Pool Fee</item>
+        <item>Bus Fee</item>
+        <item>Exam Registration Fee</item>
+        <item>Development Fee</item>
+        <item>School ID Card Fee</item>
+        <item>Conveyance Fee</item>
+        <item>Science Experiment Fee</item>
+        <item>Project Work Fee</item>
+    </string-array>
+</resources>
