@@ -91,6 +91,7 @@ public class fees extends AppCompatActivity {
         textViewSelectFee.setOnClickListener(v -> showFeeDialog());
     }
 
+
     private void showFeeDialog() {
         String[] feeNames = getResources().getStringArray(R.array.fee_names);
 
@@ -101,5 +102,9 @@ public class fees extends AppCompatActivity {
             // No need to set the amount here, it's done manually by the user
         });
         builder.show();
+
+
+
+
     }
 }
